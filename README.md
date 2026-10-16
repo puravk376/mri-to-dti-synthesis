@@ -59,5 +59,5 @@ Both require a data use agreement. Apply for access and download the data yourse
 
 ```
 P. N. Khincha, P. Sistla, and M. G, "Deep Learning-Based MRI-to-DTI Synthesis for Inferring
-White Matter Connectivity from Structural Scans," <conference name>, 2026.
+White Matter Connectivity from Structural Scans," 24th OITS International Conference on Information Technology, 2026.
 ```
