@@ -1,0 +1,37 @@
+{
+  "overall": {
+    "mri_prime_mse_mean": 0.006200048899234727,
+    "mri_prime_mse_std": 0.001042787497005827,
+    "mri_prime_ssim_mean": 0.26247289023422915,
+    "mri_prime_ssim_std": 0.012741730832792317,
+    "n_subjects": 43
+  },
+  "AD": {
+    "mri_prime_mse_mean": 0.0057402802631258965,
+    "mri_prime_mse_std": 0.0007041109650213302,
+    "mri_prime_ssim_mean": 0.2553887431102471,
+    "mri_prime_ssim_std": 0.01249877594034629,
+    "n_subjects": 8
+  },
+  "MCI": {
+    "mri_prime_mse_mean": 0.006252359162317589,
+    "mri_prime_mse_std": 0.0007965244819839538,
+    "mri_prime_ssim_mean": 0.26672281046956525,
+    "mri_prime_ssim_std": 0.011344076270202372,
+    "n_subjects": 16
+  },
+  "CN": {
+    "mri_prime_mse_mean": 0.006510020016382138,
+    "mri_prime_mse_std": 0.0013431392868514021,
+    "mri_prime_ssim_mean": 0.261035209321286,
+    "mri_prime_ssim_std": 0.013648063833422621,
+    "n_subjects": 15
+  },
+  "HCP": {
+    "mri_prime_mse_mean": 0.005747953429818153,
+    "mri_prime_mse_std": 0.0006298870159035987,
+    "mri_prime_ssim_mean": 0.2650328069643854,
+    "mri_prime_ssim_std": 0.005714618817663105,
+    "n_subjects": 4
+  }
+}

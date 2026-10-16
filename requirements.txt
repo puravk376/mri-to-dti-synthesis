@@ -1,0 +1,14 @@
+numpy<2
+torch>=2.0
+nibabel
+dipy==1.9.0
+scipy
+scikit-image
+scikit-learn
+pandas
+matplotlib
+tqdm
+pydicom
+dicom2nifti
+boto3
+# also used: MRtrix3 (dwidenoise, dwiextract, dwi2mask) and HD-BET, installed separately

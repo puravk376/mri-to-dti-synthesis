@@ -1,0 +1,37 @@
+# imaging data and caches - never commit
+*.nii
+*.nii.gz
+*.dcm
+*.npy
+*.npz
+_volume_cache*/
+processed_hcp/
+processed_adni*/
+data/
+
+# model weights (upload to GitHub Releases instead)
+*.pt
+*.pth
+*.ckpt
+checkpoints*/
+
+# Kaggle / Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+final_package*.zip
+*.zip
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# secrets
+.env
+kaggle.json
